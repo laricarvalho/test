@@ -1,2 +1,6 @@
-here are some things to do
+here are some things to do:
+
+* learn git
+* learn the command line
+* get actual sleep tonight
 
